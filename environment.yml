@@ -40,4 +40,4 @@ dependencies:
       - adskalman==0.3.11
       - dabest==2023.2.14
       - figurefirst==0.0.6
-
+      - ultralytics==8.1.9
